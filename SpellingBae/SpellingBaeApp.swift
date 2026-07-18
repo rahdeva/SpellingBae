@@ -11,7 +11,8 @@ import SwiftUI
 struct SpellingBaeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+            SpellingPracticeExampleView()
         }
     }
 }
