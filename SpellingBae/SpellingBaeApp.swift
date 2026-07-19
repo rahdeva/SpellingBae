@@ -11,8 +11,11 @@ import SwiftUI
 struct SpellingBaeApp: App {
     var body: some Scene {
         WindowGroup {
-//            ContentView()
-            SpellingPracticeExampleView()
+            if UIDevice.current.userInterfaceIdiom == .pad {
+                RootView()
+            } else {
+                PhoneRootView()
+            }
         }
     }
 }

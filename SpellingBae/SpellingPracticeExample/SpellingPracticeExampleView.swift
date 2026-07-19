@@ -195,5 +195,5 @@ struct SpellingPracticeExampleView: View {
 }
 
 #Preview {
-    SpellingPracticeView()
+    SpellingPracticeExampleView()
 }
