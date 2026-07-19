@@ -256,8 +256,8 @@
 				DEVELOPMENT_TEAM = 9W3BCB8Z6Z;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_NSMicrophoneUsageDescription = "";
-				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "SpellingBae uses the microphone so you can practice spelling words aloud.";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "SpellingBae uses speech recognition to check your spoken spelling practice.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -290,8 +290,8 @@
 				DEVELOPMENT_TEAM = 9W3BCB8Z6Z;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_NSMicrophoneUsageDescription = "";
-				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "SpellingBae uses the microphone so you can practice spelling words aloud.";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "SpellingBae uses speech recognition to check your spoken spelling practice.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
